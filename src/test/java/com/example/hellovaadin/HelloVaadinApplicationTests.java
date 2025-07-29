@@ -1,4 +1,4 @@
-package com.example.hello_vaadin;
+package com.example.hellovaadin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

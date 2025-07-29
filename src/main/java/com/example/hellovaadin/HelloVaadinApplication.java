@@ -1,4 +1,4 @@
-package com.example.hello_vaadin;
+package com.example.hellovaadin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
